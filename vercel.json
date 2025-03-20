@@ -10,10 +10,6 @@
         {
           "key": "Content-Security-Policy",
           "value": "frame-ancestors 'self' https://30dayai.systeme.io;"
-        },
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
         }
       ]
     }
