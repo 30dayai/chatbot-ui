@@ -9,10 +9,15 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "frame-ancestors 'self' https://30dayai.systeme.io;"
+          "value": "frame-ancestors 'self' https://your-systeme-url.com;"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
         }
       ]
     }
   ]
 }
+
 
